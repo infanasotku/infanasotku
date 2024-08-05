@@ -2,12 +2,9 @@
   <img src="https://raw.githubusercontent.com/infanasotku/infanasotku/master/name.svg" alt="Maxim Gerasimov" />
 </h1>
 
-## Hi there 👋
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class SoftwareEngineer:
 
@@ -20,7 +17,7 @@ class SoftwareEngineer:
     def __str__(self):
         print("I'm researching network technologies for self security.")
 
-
 me = SoftwareEngineer()
 print(me)
+
 ```
