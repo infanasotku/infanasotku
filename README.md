@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/infanasotku/infanasotku/master/fullname.svg" alt="Maxim Gerasimov" />
+  <img src="https://raw.githubusercontent.com/infanasotku/infanasotku/master/name_logo.svg" alt="Maxim Gerasimov" />
 </h1>
 
 ```python
