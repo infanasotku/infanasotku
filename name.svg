@@ -32,7 +32,7 @@
 				  letter-spacing: -.05em;
 				  text-align: center;
 				  background: rgb(2,0,36);
-				  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(18,75,191,1) 80%, rgba(0,212,255,1) 94%);
+				  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(191,18,101,1) 17%, rgba(0,212,255,1) 94%);
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
