@@ -20,3 +20,12 @@ me = SoftwareEngineer()
 print(me)
 
 ```
+
+<div align=center>
+    <a href="https://github.com/infanasotku/infanasotku">
+      <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=infanasotku&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&line_height=27" />
+    </a>
+    <a href="https://github.com/infanasotku/infanasotku">
+      <img height=220 src="https://github-readme-stats.vercel.app/api?username=infanasotku&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+    </a>
+</div>
