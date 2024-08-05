@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/infanasotku/infanasotku/master/name.svg" alt="Maxim Gerasimov" />
+</h1>
+
 ```python
 #!/usr/bin/python
 
