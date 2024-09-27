@@ -10,8 +10,9 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Maxim Gerasimov"
         self.role = "Software Engineer"
-        self.language_spoken = ["ru_RU", "en_US"]
-        self.language_used = ["Python", "Typescript", "C++"]
+        self.languages_spoken = ["ru_RU", "en_US"]
+        self.languages_used = ["Python", "Typescript", "Go", "C++"]
+        self.frameworks_used = ["FastAPI", "Vue.js"]
 
     def __str__(self):
         print("I'm researching network technologies for self security.")
